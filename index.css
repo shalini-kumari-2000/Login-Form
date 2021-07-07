@@ -1,0 +1,23 @@
+body{
+  background :url('mood-4520112_1920.jpg')  center center fixed;
+  background-size: cover;
+  background-color: rgb(90, 107, 117);
+
+  
+}
+.btn{
+  border-radius: 3rem;
+}
+main{
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+  padding: 4rem 6rem;
+  margin: auto;
+  margin-top: 15rem;
+  background :url('mood-4520112_1920.jpg')  center center fixed;
+
+}
+h2{
+  color: aliceblue;
+}
